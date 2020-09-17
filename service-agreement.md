@@ -1,21 +1,21 @@
 my company:       Studio MDS, LLC
-my nickname:      MDS
-my name:          Matt D. Smith
-my title:         Design Director
-my email:         mds@email.com
-my address:       123 Detach Instance Road
-my citystate:     Athens, GA 30606
-my state:         Georgia
-jurisdiction:     Clarke County, Georgia
-day:              Wednesday
-date:             12 August, 2020
-project type:     Website UX/UI Design
-fname:            Bob
-lname:            Loblaw
-entity:           Acme, Inc.
-entity address: 1 Apple Park Way
-entity citystate: Cupertino, CA 94024
-email:            bob@acme.com
+my nickname:      Jesse
+my name:          Jesse Hoyos
+my title:         Designer
+my email:         jessehoyos@gmail.com
+my address:       73 Marshall St
+my citystate:     Providence, RI 02909
+my state:         Rhode Island
+jurisdiction:     Providence County, Rhode Island
+day:              Thursday
+date:             17 September, 2020
+project type:     App UX/UI Design
+fname:            Brandyn
+lname:            Morelli
+entity:           Tiltmetrics/Grapvine
+entity address:   745 Atlantic Ave.
+entity citystate: Boston, MA 02111
+email:            brandyn@tiltmetrics.com
 title:            CEO
 total:            $100,000 USD
 terms:            net 14 days
